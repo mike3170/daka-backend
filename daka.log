@@ -1,0 +1,1322 @@
+2024-03-12 11:29:14 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:29:14 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:29:14 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:29:14 INFO  o.s.b.d.r.ChangeableUrls - The Class-Path manifest attribute in C:\Users\User\.m2\repository\com\oracle\database\security\oraclepki\21.5.0.0\oraclepki-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_cert.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_cert.jar
+2024-03-12 11:29:14 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-12 11:29:14 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-12 11:29:15 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:29:15 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1318 ms
+2024-03-12 11:29:16 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:29:16 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:29:16 INFO  c.s.p.App - Started App in 2.094 seconds (JVM running for 3.087)
+2024-03-12 11:29:16 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:29:16 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:29:16 INFO  c.s.p.App - Application ready...
+2024-03-12 11:29:25 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:29:25 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-12 11:29:30 TRACE c.s.c.TestController - mia - test ...
+2024-03-12 11:29:30 INFO  c.s.c.TestController - xxxx
+2024-03-12 11:29:30 DEBUG c.s.c.TestController - AAA
+2024-03-12 11:29:30 DEBUG c.s.c.TestController - BBB
+2024-03-12 11:34:18 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-03-12 11:34:19 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:34:19 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:34:19 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:34:19 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:34:19 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 190 ms
+2024-03-12 11:34:19 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:34:19 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:34:19 INFO  c.s.p.App - Started App in 0.334 seconds (JVM running for 306.397)
+2024-03-12 11:34:19 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:34:19 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:34:19 INFO  c.s.p.App - Application ready...
+2024-03-12 11:34:19 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:34:37 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:34:37 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:34:37 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:34:37 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:34:37 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:34:37 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 182 ms
+2024-03-12 11:34:37 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:34:37 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:34:37 INFO  c.s.p.App - Started App in 0.396 seconds (JVM running for 324.775)
+2024-03-12 11:34:37 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:34:37 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:34:37 INFO  c.s.p.App - Application ready...
+2024-03-12 11:34:37 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:35:35 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:35:35 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:35:35 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:35:35 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:35:35 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:35:35 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 287 ms
+2024-03-12 11:35:36 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:35:36 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:35:36 INFO  c.s.p.App - Started App in 0.436 seconds (JVM running for 382.859)
+2024-03-12 11:35:36 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:35:36 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:35:36 INFO  c.s.p.App - Application ready...
+2024-03-12 11:35:36 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:35:54 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:35:55 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:35:55 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:35:55 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:35:55 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:35:55 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 145 ms
+2024-03-12 11:35:55 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:35:55 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:35:55 INFO  c.s.p.App - Started App in 0.263 seconds (JVM running for 402.14)
+2024-03-12 11:35:55 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:35:55 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:35:55 INFO  c.s.p.App - Application ready...
+2024-03-12 11:35:55 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:38:39 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:38:39 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:38:39 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:38:39 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:38:40 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:38:40 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 188 ms
+2024-03-12 11:38:40 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:38:40 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:38:40 INFO  c.s.p.App - Started App in 0.3 seconds (JVM running for 566.9)
+2024-03-12 11:38:40 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:38:40 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:38:40 INFO  c.s.p.App - Application ready...
+2024-03-12 11:38:40 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:38:47 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:38:47 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 11:38:47 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:38:47 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:38:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:38:48 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:38:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:38:49 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:38:50 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:38:50 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:08 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:39:09 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:39:09 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:39:09 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:39:09 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:39:09 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 131 ms
+2024-03-12 11:39:09 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:39:09 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:39:09 INFO  c.s.p.App - Started App in 0.231 seconds (JVM running for 596.274)
+2024-03-12 11:39:09 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:39:09 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:39:09 INFO  c.s.p.App - Application ready...
+2024-03-12 11:39:09 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:39:16 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:39:16 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-12 11:39:16 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:16 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:17 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:17 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:17 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:18 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:18 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:18 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:18 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:18 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:18 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:18 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:18 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:39:18 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:39:18 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:42:42 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:42:42 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:42:42 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:42:42 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:42:42 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:42:42 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 153 ms
+2024-03-12 11:42:42 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:42:42 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:42:42 INFO  c.s.p.App - Started App in 0.25 seconds (JVM running for 809.763)
+2024-03-12 11:42:42 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:42:42 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:42:42 INFO  c.s.p.App - Application ready...
+2024-03-12 11:42:42 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:42:47 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:42:47 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-12 11:42:47 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:49 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:50 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:50 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:50 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:50 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:50 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:50 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:51 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:51 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:51 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:51 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:51 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:51 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:52 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:52 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:52 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:52 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:52 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:52 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:53 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:53 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:53 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:53 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:53 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:42:53 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:43:25 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:43:25 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:43:25 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:43:25 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:43:25 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:43:25 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 143 ms
+2024-03-12 11:43:25 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:43:25 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:43:25 INFO  c.s.p.App - Started App in 0.24 seconds (JVM running for 852.347)
+2024-03-12 11:43:25 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:43:25 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:43:25 INFO  c.s.p.App - Application ready...
+2024-03-12 11:43:25 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:43:28 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:43:28 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 11:43:28 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:43:28 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:44:31 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:44:31 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:44:31 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:44:31 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:44:31 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:44:31 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 139 ms
+2024-03-12 11:44:31 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:44:31 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:44:31 INFO  c.s.p.App - Started App in 0.231 seconds (JVM running for 918.33)
+2024-03-12 11:44:31 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:44:31 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:44:31 INFO  c.s.p.App - Application ready...
+2024-03-12 11:44:31 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:44:33 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:44:33 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 11:44:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:44:33 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:44:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:44:33 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:44:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:44:34 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:44:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:44:34 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:44:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:44:34 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:44:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:44:34 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:05 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-03-12 11:46:05 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:46:05 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:46:05 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:46:05 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:46:05 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 151 ms
+2024-03-12 11:46:05 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:46:05 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:46:05 INFO  c.s.p.App - Started App in 0.241 seconds (JVM running for 1012.776)
+2024-03-12 11:46:05 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:46:05 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:46:05 INFO  c.s.p.App - Application ready...
+2024-03-12 11:46:05 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:46:22 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:46:22 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-12 11:46:22 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:22 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:23 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:23 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:23 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:23 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:23 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:23 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:23 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:23 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:24 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:24 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:24 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:24 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:24 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:24 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:24 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:24 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:24 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:46:24 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:24 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:24 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:24 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not find acceptable representation]
+2024-03-12 11:46:25 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:46:25 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:46:25 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:46:25 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:46:25 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 126 ms
+2024-03-12 11:46:25 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:46:25 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:46:25 INFO  c.s.p.App - Started App in 0.215 seconds (JVM running for 1031.973)
+2024-03-12 11:46:25 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:46:25 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:46:25 INFO  c.s.p.App - Application ready...
+2024-03-12 11:46:25 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:46:25 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:46:25 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-12 11:46:25 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:28 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:28 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:28 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:28 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:29 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:29 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:29 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:29 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:29 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:30 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:30 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:30 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:30 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:30 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:31 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:31 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:31 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:31 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:31 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:31 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:32 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:32 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:32 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:32 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:32 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:33 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:34 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:35 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:35 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:35 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:35 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:35 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:35 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:36 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:36 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:36 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:36 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:46:36 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:47 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:47:48 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:47:48 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:47:48 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:47:48 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:47:48 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 117 ms
+2024-03-12 11:47:48 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:47:48 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:47:48 INFO  c.s.p.App - Started App in 0.206 seconds (JVM running for 1115.242)
+2024-03-12 11:47:48 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:47:48 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:47:48 INFO  c.s.p.App - Application ready...
+2024-03-12 11:47:48 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:47:52 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:47:52 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 11:47:52 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:53 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:54 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:54 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:54 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:54 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:55 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:55 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:55 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:55 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:47:55 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:07 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:48:07 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:48:07 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:48:07 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:48:07 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:48:07 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 109 ms
+2024-03-12 11:48:07 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:48:07 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:48:07 INFO  c.s.p.App - Started App in 0.194 seconds (JVM running for 1134.396)
+2024-03-12 11:48:07 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:48:07 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:48:07 INFO  c.s.p.App - Application ready...
+2024-03-12 11:48:07 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:48:10 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:48:10 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-12 11:48:10 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:11 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:11 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:11 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:11 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:11 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:12 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:12 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:12 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:12 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:12 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:12 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:13 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:13 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:13 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:13 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:13 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:13 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:13 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:14 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:14 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:14 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:14 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:14 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:14 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:15 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:15 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:15 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:15 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:15 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:16 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:16 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:16 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:16 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:16 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:48:17 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:50:57 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:50:58 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:50:58 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:50:58 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:50:58 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:50:58 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 113 ms
+2024-03-12 11:50:58 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:50:58 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:50:58 INFO  c.s.p.App - Started App in 0.21 seconds (JVM running for 1305.114)
+2024-03-12 11:50:58 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:50:58 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:50:58 INFO  c.s.p.App - Application ready...
+2024-03-12 11:50:58 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:51:03 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:51:03 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 11:51:03 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:05 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:05 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:05 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:05 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:05 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:51:16 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 11:51:17 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 11:51:17 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 11:51:17 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 11:51:17 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 11:51:17 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 125 ms
+2024-03-12 11:51:17 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 11:51:17 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 11:51:17 INFO  c.s.p.App - Started App in 0.225 seconds (JVM running for 1324.309)
+2024-03-12 11:51:17 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 11:51:17 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 11:51:17 INFO  c.s.p.App - Application ready...
+2024-03-12 11:51:17 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 11:55:45 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 11:55:45 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 11:56:04 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:56:48 TRACE c.s.c.TestController - Hello ...
+2024-03-12 11:57:43 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2024-03-12 11:57:44 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2024-03-12 11:57:44 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-12 11:57:44 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T11:57:44.606, lat=22.636997, lng=120.3550695}
+2024-03-12 11:57:53 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-12 11:57:53 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T11:57:53.649, lat=22.636997, lng=120.3550695}
+2024-03-12 11:58:35 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-12 11:58:35 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T11:58:35.164, lat=22.636997, lng=120.3550695}
+2024-03-12 11:58:49 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-12 11:58:49 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T11:58:49.538, lat=22.636997, lng=120.3550695}
+2024-03-12 11:59:18 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-12 11:59:18 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T11:59:18.353, lat=22.636997, lng=120.3550695}
+2024-03-12 12:41:59 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 12:42:00 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-12 12:42:00 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [oracle.jdbc.driver.BlockSource.ThreadedCachingBlockSource.BlockReleaser] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaser.run(BlockSource.java:329)
+2024-03-12 12:42:00 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [InterruptTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-12 12:42:00 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:750)
+2024-03-12 12:42:00 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-03-12 12:42:00 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-03-12 12:42:00 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 12:42:00 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 12:42:00 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 12:42:00 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 12:42:00 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 119 ms
+2024-03-12 12:42:00 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 12:42:00 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 12:42:00 INFO  c.s.p.App - Started App in 0.201 seconds (JVM running for 4367.297)
+2024-03-12 12:42:00 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 12:42:00 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 12:42:00 INFO  c.s.p.App - Application ready...
+2024-03-12 12:42:00 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 12:42:19 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 12:42:19 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 12:42:19 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 12:42:19 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 12:42:19 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 12:42:19 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 110 ms
+2024-03-12 12:42:19 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 12:42:19 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 12:42:19 INFO  c.s.p.App - Started App in 0.19 seconds (JVM running for 4386.471)
+2024-03-12 12:42:19 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 12:42:19 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 12:42:19 INFO  c.s.p.App - Application ready...
+2024-03-12 12:42:19 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 13:10:34 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 13:10:34 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 11176 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 13:10:34 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 13:10:34 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 13:10:34 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 13:10:34 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 111 ms
+2024-03-12 13:10:34 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 13:10:34 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 13:10:34 INFO  c.s.p.App - Started App in 0.2 seconds (JVM running for 6081.744)
+2024-03-12 13:10:34 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 13:10:34 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 13:10:34 INFO  c.s.p.App - Application ready...
+2024-03-12 13:10:34 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 13:12:28 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 13:12:28 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 13:12:28 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 13:12:28 INFO  o.s.b.d.r.ChangeableUrls - The Class-Path manifest attribute in C:\Users\User\.m2\repository\com\oracle\database\security\oraclepki\21.5.0.0\oraclepki-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_cert.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_cert.jar
+2024-03-12 13:12:28 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-12 13:12:28 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-12 13:12:29 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 13:12:29 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1365 ms
+2024-03-12 13:12:30 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 13:12:30 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 13:12:30 INFO  c.s.p.App - Started App in 2.175 seconds (JVM running for 3.17)
+2024-03-12 13:12:30 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 13:12:30 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 13:12:30 INFO  c.s.p.App - Application ready...
+2024-03-12 13:12:50 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 13:12:50 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 13:12:50 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 13:12:50 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 13:12:50 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 13:12:50 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 210 ms
+2024-03-12 13:12:50 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 13:12:50 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 13:12:50 INFO  c.s.p.App - Started App in 0.369 seconds (JVM running for 23.556)
+2024-03-12 13:12:50 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 13:12:50 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 13:12:50 INFO  c.s.p.App - Application ready...
+2024-03-12 13:12:50 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 13:28:27 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 13:28:27 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 2 ms
+2024-03-12 13:28:28 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2024-03-12 13:28:28 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2024-03-12 13:28:28 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:28:28 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28.562, lat=22.6689024, lng=120.307712}
+2024-03-12 13:29:43 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:29:43 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43.004, lat=22.6689024, lng=120.307712}
+2024-03-12 13:30:09 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:30:09 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09.723, lat=22.6689024, lng=120.307712}
+2024-03-12 13:30:51 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:30:51 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51.014, lat=22.6689024, lng=120.307712}
+2024-03-12 13:31:39 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:31:39 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39.757, lat=22.6689024, lng=120.307712}
+2024-03-12 13:32:18 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:32:18 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18.892, lat=22.6689024, lng=120.307712}
+2024-03-12 13:38:56 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:38:56 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56.675, lat=22.6689024, lng=120.307712}
+2024-03-12 13:39:16 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:39:16 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16.382, lat=22.6689024, lng=120.307712}
+2024-03-12 13:42:11 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:42:11 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11.816, lat=22.6689024, lng=120.307712}
+2024-03-12 13:47:28 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:47:28 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28.842, lat=22.6689024, lng=120.307712}
+2024-03-12 13:48:54 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:48:54 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54.780, lat=22.6689024, lng=120.307712}
+2024-03-12 13:49:49 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:49:49 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49.294, lat=22.6689024, lng=120.307712}
+2024-03-12 13:52:05 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 13:52:05 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05.073, lat=22.6689024, lng=120.307712}
+2024-03-12 14:00:01 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 14:00:01 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01.626, lat=22.6689024, lng=120.307712}
+2024-03-12 14:07:50 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2024-03-12 14:07:50 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-12 14:07:50 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [oracle.jdbc.driver.BlockSource.ThreadedCachingBlockSource.BlockReleaser] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaser.run(BlockSource.java:329)
+2024-03-12 14:07:50 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [InterruptTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-12 14:07:50 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:750)
+2024-03-12 14:07:50 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-03-12 14:07:50 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-03-12 14:07:50 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 14:07:50 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 14:07:50 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 14:07:50 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 14:07:50 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 171 ms
+2024-03-12 14:07:50 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'punchService' defined in file [D:\nbProjects\daka\target\classes\com\stit\svc\PunchService.class]: Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+2024-03-12 14:07:50 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-03-12 14:07:50 ERROR o.s.b.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'punchService' defined in file [D:\nbProjects\daka\target\classes\com\stit\svc\PunchService.class]: Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:929) ~[spring-context-5.3.31.jar:5.3.31]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:591) ~[spring-context-5.3.31.jar:5.3.31]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:409) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1300) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1289) ~[spring-boot-2.7.18.jar:2.7.18]
+	at com.stit.punch.App.main(App.java:46) ~[classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_391]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_391]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_391]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_391]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-2.7.18.jar:2.7.18]
+Caused by: java.lang.ExceptionInInitializerError
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_391]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_391]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_391]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_391]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:213) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326) ~[spring-beans-5.3.31.jar:5.3.31]
+	... 22 more
+Caused by: java.lang.RuntimeException: Uncompilable code - reached end of file while parsing
+	at com.stit.svc.PunchService.<clinit>(PunchService.java:1) ~[classes/:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_391]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_391]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_391]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_391]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:213) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326) ~[spring-beans-5.3.31.jar:5.3.31]
+	... 22 more
+2024-03-12 14:08:09 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 14:08:09 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 14:08:09 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 14:08:09 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 14:08:09 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 218 ms
+2024-03-12 14:08:09 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'punchService' defined in file [D:\nbProjects\daka\target\classes\com\stit\svc\PunchService.class]: Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+2024-03-12 14:08:09 INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-03-12 14:08:09 ERROR o.s.b.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'punchService' defined in file [D:\nbProjects\daka\target\classes\com\stit\svc\PunchService.class]: Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:929) ~[spring-context-5.3.31.jar:5.3.31]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:591) ~[spring-context-5.3.31.jar:5.3.31]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:409) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1300) ~[spring-boot-2.7.18.jar:2.7.18]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1289) ~[spring-boot-2.7.18.jar:2.7.18]
+	at com.stit.punch.App.main(App.java:46) ~[classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_391]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_391]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_391]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_391]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-2.7.18.jar:2.7.18]
+Caused by: java.lang.ExceptionInInitializerError
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_391]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_391]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_391]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_391]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:213) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326) ~[spring-beans-5.3.31.jar:5.3.31]
+	... 22 more
+Caused by: java.lang.RuntimeException: Uncompilable code - reached end of file while parsing
+	at com.stit.svc.PunchService.<clinit>(PunchService.java:1) ~[classes/:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_391]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_391]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_391]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_391]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:213) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-5.3.31.jar:5.3.31]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326) ~[spring-beans-5.3.31.jar:5.3.31]
+	... 22 more
+2024-03-12 14:12:46 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 14:12:46 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 14:12:46 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 14:12:46 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 14:12:46 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 182 ms
+2024-03-12 14:12:47 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 14:12:47 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 14:12:47 INFO  c.s.p.App - Started App in 0.32 seconds (JVM running for 3619.827)
+2024-03-12 14:12:47 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 14:12:47 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 14:12:47 INFO  c.s.p.App - Application ready...
+2024-03-12 14:12:47 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 14:14:54 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2024-03-12 14:14:54 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 14:14:54 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 14:14:54 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 14:14:54 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 14:14:55 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 185 ms
+2024-03-12 14:14:55 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 14:14:55 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 14:14:55 INFO  c.s.p.App - Started App in 0.302 seconds (JVM running for 3747.901)
+2024-03-12 14:14:55 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 14:14:55 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 14:14:55 INFO  c.s.p.App - Application ready...
+2024-03-12 14:14:55 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 14:15:18 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 14:15:19 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 14:15:19 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 14:15:19 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 14:15:19 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 14:15:19 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 147 ms
+2024-03-12 14:15:19 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 14:15:19 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 14:15:19 INFO  c.s.p.App - Started App in 0.255 seconds (JVM running for 3772.195)
+2024-03-12 14:15:19 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 14:15:19 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 14:15:19 INFO  c.s.p.App - Application ready...
+2024-03-12 14:15:19 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 14:17:38 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 14:17:38 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 14:17:38 INFO  c.z.h.HikariDataSource - HikariPool-2 - Starting...
+2024-03-12 14:17:38 INFO  c.z.h.HikariDataSource - HikariPool-2 - Start completed.
+2024-03-12 14:17:38 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:18:15 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 14:18:15 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-2 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:750)
+2024-03-12 14:18:15 INFO  c.z.h.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-03-12 14:18:15 INFO  c.z.h.HikariDataSource - HikariPool-2 - Shutdown completed.
+2024-03-12 14:18:15 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 14:18:15 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 14:18:15 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 14:18:16 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 14:18:16 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 138 ms
+2024-03-12 14:18:16 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 14:18:16 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 14:18:16 INFO  c.s.p.App - Started App in 0.238 seconds (JVM running for 3948.917)
+2024-03-12 14:18:16 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 14:18:16 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 14:18:16 INFO  c.s.p.App - Application ready...
+2024-03-12 14:18:16 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 14:18:17 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 14:18:17 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-12 14:18:17 INFO  c.z.h.HikariDataSource - HikariPool-3 - Starting...
+2024-03-12 14:18:17 INFO  c.z.h.HikariDataSource - HikariPool-3 - Start completed.
+2024-03-12 14:18:17 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:26:01 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:26:32 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:27:39 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:28:12 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 14:28:12 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12.169, lat=22.6689024, lng=120.307712}
+2024-03-12 14:28:15 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:29:02 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:29:03 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:29:04 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:29:04 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:29:05 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:29:05 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:30:31 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:32:33 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:32:59 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:34:52 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:35:14 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:36:16 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:37:05 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:37:32 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:38:31 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:38:42 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:39:02 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:39:31 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:39:52 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 14:39:52 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:39:52.200, lat=22.6689024, lng=120.307712}
+2024-03-12 14:39:56 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T13:28:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:29:43, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:09, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:30:51, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:31:39, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:32:18, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:38:56, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:39:16, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:42:11, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:47:28, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:48:54, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:49:49, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T13:52:05, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:00:01, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:28:12, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:39:52, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:42:29 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 14:42:29 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:42:29.865, lat=22.6689024, lng=120.307712}
+2024-03-12 14:43:23 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 14:43:23 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:43:23.575, lat=22.6689024, lng=120.307712}
+2024-03-12 14:43:35 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T14:42:29, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:43:23, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:46:42 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6654046, lng=120.3036645}
+2024-03-12 14:46:42 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:46:42.119, lat=22.6654046, lng=120.3036645}
+2024-03-12 14:47:32 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6654046, lng=120.3036645}
+2024-03-12 14:47:32 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:47:32.359, lat=22.6654046, lng=120.3036645}
+2024-03-12 14:47:49 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T14:42:29, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:43:23, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:46:42, lat=22.6654046, lng=120.3036645}, PunchCardDto{empId=001, punchTime=2024-03-12T14:47:32, lat=22.6654046, lng=120.3036645}]
+2024-03-12 14:50:21 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 14:50:21 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:50:21.674, lat=22.6689024, lng=120.307712}
+2024-03-12 14:50:25 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T14:42:29, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:43:23, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:46:42, lat=22.6654046, lng=120.3036645}, PunchCardDto{empId=001, punchTime=2024-03-12T14:47:32, lat=22.6654046, lng=120.3036645}, PunchCardDto{empId=001, punchTime=2024-03-12T14:50:21, lat=22.6689024, lng=120.307712}]
+2024-03-12 14:55:29 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712}
+2024-03-12 14:55:29 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T14:55:29.405, lat=22.6689024, lng=120.307712}
+2024-03-12 14:55:43 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T14:42:29, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:43:23, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:46:42, lat=22.6654046, lng=120.3036645}, PunchCardDto{empId=001, punchTime=2024-03-12T14:47:32, lat=22.6654046, lng=120.3036645}, PunchCardDto{empId=001, punchTime=2024-03-12T14:50:21, lat=22.6689024, lng=120.307712}, PunchCardDto{empId=001, punchTime=2024-03-12T14:55:29, lat=22.6689024, lng=120.307712}]
+2024-03-12 15:05:10 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2024-03-12 15:05:10 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-3 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:750)
+2024-03-12 15:05:10 INFO  c.z.h.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2024-03-12 15:05:10 INFO  c.z.h.HikariDataSource - HikariPool-3 - Shutdown completed.
+2024-03-12 15:05:10 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:05:10 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:05:10 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:05:10 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:05:10 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 136 ms
+2024-03-12 15:05:11 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:05:11 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:05:11 INFO  c.s.p.App - Started App in 0.238 seconds (JVM running for 6763.845)
+2024-03-12 15:05:11 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:05:11 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:05:11 INFO  c.s.p.App - Application ready...
+2024-03-12 15:05:11 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:05:29 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-03-12 15:05:30 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:05:30 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:05:30 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:05:30 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:05:30 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 134 ms
+2024-03-12 15:05:30 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:05:30 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:05:30 INFO  c.s.p.App - Started App in 0.233 seconds (JVM running for 6783.019)
+2024-03-12 15:05:30 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:05:30 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:05:30 INFO  c.s.p.App - Application ready...
+2024-03-12 15:05:30 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:05:47 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 15:05:48 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:05:48 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:05:48 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:05:48 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:05:48 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 131 ms
+2024-03-12 15:05:48 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:05:48 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:05:48 INFO  c.s.p.App - Started App in 0.222 seconds (JVM running for 6801.214)
+2024-03-12 15:05:48 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:05:48 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:05:48 INFO  c.s.p.App - Application ready...
+2024-03-12 15:05:48 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:06:47 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 15:06:48 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:06:48 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:06:48 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:06:48 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:06:48 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 121 ms
+2024-03-12 15:06:48 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:06:48 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:06:48 INFO  c.s.p.App - Started App in 0.207 seconds (JVM running for 6861.008)
+2024-03-12 15:06:48 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:06:48 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:06:48 INFO  c.s.p.App - Application ready...
+2024-03-12 15:06:48 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:13:49 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 15:13:49 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 15:13:49 INFO  c.z.h.HikariDataSource - HikariPool-4 - Starting...
+2024-03-12 15:13:49 INFO  c.z.h.HikariDataSource - HikariPool-4 - Start completed.
+2024-03-12 15:13:49 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:13:49 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49.445, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:14:06 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 15:14:06 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06.377, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 15:14:19 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:14:19 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19.202, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:14:22 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:16:11 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:17:16 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:18:14 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:18:35 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:19:04 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:19:04 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:19:04.435, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:19:11 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:20:17 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:20:59 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:26:27 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:26:27 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:26:27.256, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:30:39 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:26:27, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 15:37:23 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6654091, lng=120.3036635, kind=1}
+2024-03-12 15:37:23 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:37:23.300, lat=22.6654091, lng=120.3036635, kind=1}
+2024-03-12 15:42:58 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:26:27, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:37:23, lat=22.6654091, lng=120.3036635, kind=1}]
+2024-03-12 15:43:40 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:43:40 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:43:40.680, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:43:53 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 15:43:53 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:43:53.644, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 15:45:03 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 15:45:04 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-4 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:750)
+2024-03-12 15:45:04 INFO  c.z.h.HikariDataSource - HikariPool-4 - Shutdown initiated...
+2024-03-12 15:45:04 INFO  c.z.h.HikariDataSource - HikariPool-4 - Shutdown completed.
+2024-03-12 15:45:04 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:45:04 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:45:04 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:45:04 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:45:04 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 124 ms
+2024-03-12 15:45:04 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:45:04 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:45:04 INFO  c.s.p.App - Started App in 0.211 seconds (JVM running for 9157.151)
+2024-03-12 15:45:04 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:45:04 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:45:04 INFO  c.s.p.App - Application ready...
+2024-03-12 15:45:04 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:45:22 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+2024-03-12 15:45:22 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:45:22 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:45:22 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:45:22 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:45:22 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 132 ms
+2024-03-12 15:45:22 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:45:22 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:45:22 INFO  c.s.p.App - Started App in 0.238 seconds (JVM running for 9175.295)
+2024-03-12 15:45:22 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:45:22 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:45:22 INFO  c.s.p.App - Application ready...
+2024-03-12 15:45:22 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:45:52 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 15:45:52 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:45:52 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:45:52 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:45:52 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:45:52 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 128 ms
+2024-03-12 15:45:52 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:45:52 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:45:52 INFO  c.s.p.App - Started App in 0.222 seconds (JVM running for 9205.646)
+2024-03-12 15:45:52 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:45:52 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:45:52 INFO  c.s.p.App - Application ready...
+2024-03-12 15:45:52 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:47:20 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-12 15:47:20 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 20948 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 15:47:20 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 15:47:20 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 15:47:21 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 15:47:21 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 132 ms
+2024-03-12 15:47:21 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 15:47:21 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 15:47:21 INFO  c.s.p.App - Started App in 0.221 seconds (JVM running for 9293.961)
+2024-03-12 15:47:21 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 15:47:21 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 15:47:21 INFO  c.s.p.App - Application ready...
+2024-03-12 15:47:21 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-12 15:47:30 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-12 15:47:30 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-12 15:47:30 INFO  c.z.h.HikariDataSource - HikariPool-5 - Starting...
+2024-03-12 15:47:30 INFO  c.z.h.HikariDataSource - HikariPool-5 - Start completed.
+2024-03-12 15:47:30 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6654056, lng=120.303661, kind=1}
+2024-03-12 15:47:30 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:47:30.492, lat=22.6654056, lng=120.303661, kind=1}
+2024-03-12 15:47:38 DEBUG c.s.s.PunchService - listType: 1
+2024-03-12 15:47:38 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:13:49, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:06, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:14:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:26:27, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:37:23, lat=22.6654091, lng=120.3036635, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:43:40, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:43:53, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:47:30, lat=22.6654056, lng=120.303661, kind=1}]
+2024-03-12 15:55:07 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:55:07 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:55:07.245, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:55:17 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 15:55:17 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:55:17.497, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 15:55:25 DEBUG c.s.s.PunchService - listType: 1
+2024-03-12 15:55:25 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:55:07, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:17, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-12 15:55:44 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 15:55:44 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T15:55:44.226, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:00:46 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:00:46 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:00:46.153, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:00:51 DEBUG c.s.s.PunchService - listType: 1
+2024-03-12 16:00:51 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:55:07, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:17, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:44, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:00:46, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 16:07:19 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:07:19 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:07:19.091, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:09:02 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 16:09:02 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:09:02.404, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 16:09:13 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:09:13 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:09:13.801, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:09:26 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:09:26 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:09:26.868, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:09:57 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:09:57 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:09:57.034, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:16:41 DEBUG c.s.s.PunchService - listType: 1
+2024-03-12 16:16:41 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:55:07, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:17, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:44, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:00:46, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:07:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:02, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:13, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:26, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:57, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 16:18:35 DEBUG c.s.s.PunchService - listType: 1
+2024-03-12 16:18:35 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:55:07, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:17, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:44, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:00:46, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:07:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:02, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:13, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:26, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:57, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 16:21:48 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:21:48 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:21:48.114, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:22:09 DEBUG c.s.s.PunchService - listType: 1
+2024-03-12 16:22:09 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:55:07, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:17, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:44, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:00:46, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:07:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:02, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:13, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:26, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:57, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:21:48, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 16:25:13 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:25:13 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:25:13.738, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:29:31 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 16:29:31 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:29:31.018, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-12 16:31:32 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:31:32 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-12T16:31:32, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-12 16:34:59 DEBUG c.s.s.PunchService - listType: 1
+2024-03-12 16:34:59 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-12T15:55:07, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:17, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T15:55:44, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:00:46, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:07:19, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:02, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:13, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:26, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:09:57, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:21:48, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:25:13, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-12T16:29:31, lat=22.6689024, lng=120.307712, kind=2}, PunchCardDto{empId=001, punchTime=2024-03-12T16:31:32, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-12 17:10:55 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 21768 (D:\nbProjects\daka\target\classes started by User in D:\nbProjects\daka)
+2024-03-12 17:10:55 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-12 17:10:55 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-12 17:10:55 INFO  o.s.b.d.r.ChangeableUrls - The Class-Path manifest attribute in C:\Users\User\.m2\repository\com\oracle\database\security\oraclepki\21.5.0.0\oraclepki-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_cert.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_cert.jar
+2024-03-12 17:10:55 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-12 17:10:55 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-12 17:10:56 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-12 17:10:56 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1243 ms
+2024-03-12 17:10:57 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-12 17:10:57 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-12 17:10:57 INFO  c.s.p.App - Started App in 2.029 seconds (JVM running for 3.067)
+2024-03-12 17:10:57 INFO  c.s.p.App - ----------------------------------------------
+2024-03-12 17:10:57 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-12 17:10:57 INFO  c.s.p.App - Application ready...
+2024-03-13 18:44:59 INFO  c.s.p.App - Starting App using Java 1.8.0_92 on mike22 with PID 26656 (C:\Users\mike\Desktop\webProject\stit\daka\daka_backend\target\classes started by mike in C:\Users\mike\Desktop\webProject\stit\daka\daka_backend)
+2024-03-13 18:44:59 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-13 18:44:59 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-13 18:44:59 INFO  o.s.b.d.r.ChangeableUrls - The Class-Path manifest attribute in C:\Users\mike\.m2\repository\com\oracle\database\security\oraclepki\21.5.0.0\oraclepki-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/mike/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_core.jar,file:/C:/Users/mike/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_cert.jar,file:/C:/Users/mike/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_core.jar,file:/C:/Users/mike/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_cert.jar
+2024-03-13 18:44:59 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-13 18:44:59 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-13 18:45:00 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-13 18:45:01 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1085 ms
+2024-03-13 18:45:01 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-13 18:45:01 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-13 18:45:01 INFO  c.s.p.App - Started App in 1.745 seconds (JVM running for 2.316)
+2024-03-13 18:45:01 INFO  c.s.p.App - ----------------------------------------------
+2024-03-13 18:45:01 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@192.168.1.56:1526:jhdb
+2024-03-13 18:45:01 INFO  c.s.p.App - Application ready...
+2024-03-13 18:45:14 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-13 18:45:14 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-13 18:45:23 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 20 class path changes (0 additions, 0 deletions, 20 modifications)
+2024-03-13 18:45:23 INFO  c.s.p.App - Starting App using Java 1.8.0_92 on mike22 with PID 26656 (C:\Users\mike\Desktop\webProject\stit\daka\daka_backend\target\classes started by mike in C:\Users\mike\Desktop\webProject\stit\daka\daka_backend)
+2024-03-13 18:45:23 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-13 18:45:23 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-13 18:45:23 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-13 18:45:23 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 264 ms
+2024-03-13 18:45:23 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-13 18:45:23 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-13 18:45:23 INFO  c.s.p.App - Started App in 0.4 seconds (JVM running for 24.653)
+2024-03-13 18:45:23 INFO  c.s.p.App - ----------------------------------------------
+2024-03-13 18:45:23 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@192.168.1.56:1526:jhdb
+2024-03-13 18:45:23 INFO  c.s.p.App - Application ready...
+2024-03-13 18:45:23 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-13 18:51:20 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-13 18:51:20 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-13 18:51:20 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2024-03-13 18:51:21 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2024-03-13 18:51:21 DEBUG c.s.s.PunchService - listType: 1
+2024-03-13 18:51:21 DEBUG c.s.c.PunchController - ret: []
+2024-03-13 18:52:08 DEBUG c.s.s.PunchService - listType: 1
+2024-03-13 18:52:08 DEBUG c.s.c.PunchController - ret: []
+2024-03-13 18:52:09 DEBUG c.s.s.PunchService - listType: 1
+2024-03-13 18:52:09 DEBUG c.s.c.PunchController - ret: []
+2024-03-13 18:52:09 DEBUG c.s.s.PunchService - listType: 1
+2024-03-13 18:52:09 DEBUG c.s.c.PunchController - ret: []
+2024-03-13 18:52:10 DEBUG c.s.s.PunchService - listType: 1
+2024-03-13 18:52:10 DEBUG c.s.c.PunchController - ret: []
+2024-03-13 19:13:53 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-13 19:13:53 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53.255, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-13 19:20:53 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-13 19:20:53 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53.407, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-13 19:21:00 DEBUG c.s.s.PunchService - listType: 1
+2024-03-13 19:21:00 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 09:33:25 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 09:33:25 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 09:33:28 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 09:33:28 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 09:33:32 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 09:33:32 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 10:18:23 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-14 10:18:23 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-14 10:18:23 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [oracle.jdbc.driver.BlockSource.ThreadedCachingBlockSource.BlockReleaser] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaser.run(BlockSource.java:329)
+2024-03-14 10:18:23 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [InterruptTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-14 10:18:23 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+ java.lang.Thread.run(Thread.java:745)
+2024-03-14 10:18:23 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-03-14 10:18:23 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-03-14 10:18:23 INFO  c.s.p.App - Starting App using Java 1.8.0_92 on mike22 with PID 26656 (C:\Users\mike\Desktop\webProject\stit\daka\daka_backend\target\classes started by mike in C:\Users\mike\Desktop\webProject\stit\daka\daka_backend)
+2024-03-14 10:18:23 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-14 10:18:23 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-14 10:18:24 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-14 10:18:24 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 167 ms
+2024-03-14 10:18:24 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-14 10:18:24 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-14 10:18:24 INFO  c.s.p.App - Started App in 0.286 seconds (JVM running for 56005.049)
+2024-03-14 10:18:24 INFO  c.s.p.App - ----------------------------------------------
+2024-03-14 10:18:24 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@192.168.1.56:1526:jhdb
+2024-03-14 10:18:24 INFO  c.s.p.App - Application ready...
+2024-03-14 10:18:24 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-14 10:18:42 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-14 10:18:43 INFO  c.s.p.App - Starting App using Java 1.8.0_92 on mike22 with PID 26656 (C:\Users\mike\Desktop\webProject\stit\daka\daka_backend\target\classes started by mike in C:\Users\mike\Desktop\webProject\stit\daka\daka_backend)
+2024-03-14 10:18:43 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-14 10:18:43 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-14 10:18:43 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-14 10:18:43 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 129 ms
+2024-03-14 10:18:43 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-14 10:18:43 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-14 10:18:43 INFO  c.s.p.App - Started App in 0.213 seconds (JVM running for 56024.173)
+2024-03-14 10:18:43 INFO  c.s.p.App - ----------------------------------------------
+2024-03-14 10:18:43 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@192.168.1.56:1526:jhdb
+2024-03-14 10:18:43 INFO  c.s.p.App - Application ready...
+2024-03-14 10:18:43 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-14 10:34:44 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-14 10:34:44 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 2 ms
+2024-03-14 10:34:44 WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'listType' for method parameter type String is not present]
+2024-03-14 10:49:46 INFO  c.z.h.HikariDataSource - HikariPool-2 - Starting...
+2024-03-14 10:49:46 INFO  c.z.h.HikariDataSource - HikariPool-2 - Start completed.
+2024-03-14 10:49:46 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 10:54:57 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-14 10:54:57 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-2 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+ java.lang.Thread.run(Thread.java:745)
+2024-03-14 10:54:57 INFO  c.z.h.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-03-14 10:54:57 INFO  c.z.h.HikariDataSource - HikariPool-2 - Shutdown completed.
+2024-03-14 10:54:57 INFO  c.s.p.App - Starting App using Java 1.8.0_92 on mike22 with PID 26656 (C:\Users\mike\Desktop\webProject\stit\daka\daka_backend\target\classes started by mike in C:\Users\mike\Desktop\webProject\stit\daka\daka_backend)
+2024-03-14 10:54:57 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-14 10:54:57 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-14 10:54:58 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-14 10:54:58 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 146 ms
+2024-03-14 10:54:58 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-14 10:54:58 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-14 10:54:58 INFO  c.s.p.App - Started App in 0.258 seconds (JVM running for 58198.996)
+2024-03-14 10:54:58 INFO  c.s.p.App - ----------------------------------------------
+2024-03-14 10:54:58 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@192.168.1.56:1526:jhdb
+2024-03-14 10:54:58 INFO  c.s.p.App - Application ready...
+2024-03-14 10:54:58 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-14 10:54:58 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-14 10:54:58 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-14 10:54:58 INFO  c.z.h.HikariDataSource - HikariPool-3 - Starting...
+2024-03-14 10:54:58 INFO  c.z.h.HikariDataSource - HikariPool-3 - Start completed.
+2024-03-14 10:54:59 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 10:55:21 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-14 10:55:22 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-3 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1067)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1127)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+ java.lang.Thread.run(Thread.java:745)
+2024-03-14 10:55:22 INFO  c.z.h.HikariDataSource - HikariPool-3 - Shutdown initiated...
+2024-03-14 10:55:22 INFO  c.z.h.HikariDataSource - HikariPool-3 - Shutdown completed.
+2024-03-14 10:55:22 INFO  c.s.p.App - Starting App using Java 1.8.0_92 on mike22 with PID 26656 (C:\Users\mike\Desktop\webProject\stit\daka\daka_backend\target\classes started by mike in C:\Users\mike\Desktop\webProject\stit\daka\daka_backend)
+2024-03-14 10:55:22 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-14 10:55:22 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-14 10:55:22 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-14 10:55:22 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 121 ms
+2024-03-14 10:55:22 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-14 10:55:22 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-14 10:55:22 INFO  c.s.p.App - Started App in 0.196 seconds (JVM running for 58223.191)
+2024-03-14 10:55:22 INFO  c.s.p.App - ----------------------------------------------
+2024-03-14 10:55:22 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@192.168.1.56:1526:jhdb
+2024-03-14 10:55:22 INFO  c.s.p.App - Application ready...
+2024-03-14 10:55:22 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-14 10:55:26 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-14 10:55:26 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-14 10:55:26 INFO  c.z.h.HikariDataSource - HikariPool-4 - Starting...
+2024-03-14 10:55:26 INFO  c.z.h.HikariDataSource - HikariPool-4 - Start completed.
+2024-03-14 10:55:26 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 10:55:26 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 10:55:32 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 10:55:32 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 10:55:39 DEBUG c.s.s.PunchService - listType: 3
+2024-03-14 10:55:39 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:08:07 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:08:07 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:08:10 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:08:10 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:10:19 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:10:19 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:10:20 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:10:20 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:10:21 DEBUG c.s.s.PunchService - listType: 3
+2024-03-14 11:10:21 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:11:02 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:11:02 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:11:03 DEBUG c.s.s.PunchService - listType: 3
+2024-03-14 11:11:03 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:11:04 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:11:04 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:18:55 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-14 11:18:55 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55.146, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-14 11:19:04 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-14 11:19:04 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04.828, lat=22.6689024, lng=120.307712, kind=1}
+2024-03-14 11:19:07 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:19:07 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:19:09 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:19:09 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:19:11 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:19:11 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:19:12 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:19:12 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:19:21 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:19:21 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:19:22 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:19:22 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:19:24 DEBUG c.s.s.PunchService - listType: 3
+2024-03-14 11:19:24 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:19:25 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:19:25 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:19:27 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:19:27 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:21:34 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:21:34 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:21:36 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:21:36 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:23:20 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:23:20 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:23:21 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:23:21 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:31:47 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:31:47 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:31:56 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:31:56 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:31:58 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 11:31:58 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:31:58 DEBUG c.s.s.PunchService - listType: 3
+2024-03-14 11:31:58 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 11:31:59 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:31:59 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}]
+2024-03-14 11:46:38 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-14 11:46:38 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38.517, lat=22.6689024, lng=120.307712, kind=2}
+2024-03-14 11:46:40 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 11:46:40 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:05:31 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:05:31 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:05:37 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 14:05:37 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:05:38 DEBUG c.s.s.PunchService - listType: 3
+2024-03-14 14:05:38 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 14:05:43 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:05:43 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:06:20 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:06:20 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:06:33 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:06:33 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:06:49 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:06:49 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:07:00 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:07:00 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:07:20 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:07:20 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:07:56 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:07:56 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:07:59 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 14:07:59 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:08:01 DEBUG c.s.s.PunchService - listType: 3
+2024-03-14 14:08:01 DEBUG c.s.c.PunchController - ret: []
+2024-03-14 14:08:02 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:08:02 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:08:03 DEBUG c.s.s.PunchService - listType: 2
+2024-03-14 14:08:03 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-14 14:08:13 DEBUG c.s.s.PunchService - listType: 1
+2024-03-14 14:08:13 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]
+2024-03-15 09:18:17 DEBUG c.s.s.PunchService - listType: 1
+2024-03-15 09:18:17 DEBUG c.s.c.PunchController - ret: []
+2024-03-15 09:18:21 DEBUG c.s.s.PunchService - listType: 2
+2024-03-15 09:18:21 DEBUG c.s.c.PunchController - ret: [PunchCardDto{empId=001, punchTime=2024-03-13T19:13:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-13T19:20:53, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:18:55, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:19:04, lat=22.6689024, lng=120.307712, kind=1}, PunchCardDto{empId=001, punchTime=2024-03-14T11:46:38, lat=22.6689024, lng=120.307712, kind=2}]

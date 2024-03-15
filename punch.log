@@ -1,0 +1,92 @@
+2024-03-11 10:31:36 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 12496 (D:\nbProjects\punch\target\classes started by User in D:\nbProjects\punch)
+2024-03-11 10:31:36 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-11 10:31:36 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-11 10:31:36 INFO  o.s.b.d.r.ChangeableUrls - The Class-Path manifest attribute in C:\Users\User\.m2\repository\com\oracle\database\security\oraclepki\21.5.0.0\oraclepki-21.5.0.0.jar referenced one or more files that do not exist: file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/21.5.0.0/osdt_cert.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_core.jar,file:/C:/Users/User/.m2/repository/com/oracle/database/security/oraclepki/oracle.osdt/osdt_cert.jar
+2024-03-11 10:31:36 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-03-11 10:31:36 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-03-11 10:31:37 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-11 10:31:37 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1234 ms
+2024-03-11 10:31:37 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-11 10:31:37 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-11 10:31:37 INFO  c.s.p.App - Started App in 2.014 seconds (JVM running for 3.012)
+2024-03-11 10:31:37 INFO  c.s.p.App - ----------------------------------------------
+2024-03-11 10:31:37 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-11 10:31:37 INFO  c.s.p.App - Application ready...
+2024-03-11 10:32:05 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-11 10:32:05 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 0 ms
+2024-03-11 10:32:06 INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2024-03-11 10:32:06 INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2024-03-11 10:32:06 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:32:06 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:32:06.607, lat=22.636997, lng=120.3550695}
+2024-03-11 10:33:26 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:33:26 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:33:26.891, lat=22.636997, lng=120.3550695}
+2024-03-11 10:35:22 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:35:22 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:35:22.019, lat=22.636997, lng=120.3550695}
+2024-03-11 10:38:29 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:38:29 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:38:29.176, lat=22.636997, lng=120.3550695}
+2024-03-11 10:39:38 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:39:39 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:39:38.872, lat=22.636997, lng=120.3550695}
+2024-03-11 10:54:32 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:54:32 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:54:32.872, lat=22.636997, lng=120.3550695}
+2024-03-11 10:55:57 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:55:57 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:55:57.745, lat=22.636997, lng=120.3550695}
+2024-03-11 10:56:39 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 10:56:39 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T10:56:39.407, lat=22.636997, lng=120.3550695}
+2024-03-11 10:57:38 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-03-11 10:57:38 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-11 10:57:38 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [oracle.jdbc.driver.BlockSource.ThreadedCachingBlockSource.BlockReleaser] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ oracle.jdbc.driver.BlockSource$ThreadedCachingBlockSource$BlockReleaser.run(BlockSource.java:329)
+2024-03-11 10:57:38 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [InterruptTimer] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.Object.wait(Object.java:502)
+ java.util.TimerThread.mainLoop(Timer.java:526)
+ java.util.TimerThread.run(Timer.java:505)
+2024-03-11 10:57:38 WARN  o.a.c.l.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:750)
+2024-03-11 10:57:38 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-03-11 10:57:38 INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-03-11 10:57:38 INFO  c.s.p.App - Starting App using Java 1.8.0_391 on LAPTOP-POOU703C with PID 12496 (D:\nbProjects\punch\target\classes started by User in D:\nbProjects\punch)
+2024-03-11 10:57:38 DEBUG c.s.p.App - Running with Spring Boot v2.7.18, Spring v5.3.31
+2024-03-11 10:57:38 INFO  c.s.p.App - The following 1 profile is active: "dev"
+2024-03-11 10:57:39 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-03-11 10:57:39 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 264 ms
+2024-03-11 10:57:39 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-03-11 10:57:39 INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-03-11 10:57:39 INFO  c.s.p.App - Started App in 0.585 seconds (JVM running for 1564.65)
+2024-03-11 10:57:39 INFO  c.s.p.App - ----------------------------------------------
+2024-03-11 10:57:39 INFO  c.s.p.App - dbUrl:jdbc:oracle:thin:@localhost:1522:scorpio
+2024-03-11 10:57:39 INFO  c.s.p.App - Application ready...
+2024-03-11 10:57:39 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-03-11 11:04:01 INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-03-11 11:04:01 INFO  o.s.w.s.DispatcherServlet - Completed initialization in 1 ms
+2024-03-11 11:04:01 INFO  c.z.h.HikariDataSource - HikariPool-2 - Starting...
+2024-03-11 11:04:01 INFO  c.z.h.HikariDataSource - HikariPool-2 - Start completed.
+2024-03-11 11:04:01 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 11:04:01 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T11:04:01.806, lat=22.636997, lng=120.3550695}
+2024-03-11 11:04:27 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 11:04:27 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T11:04:27.598, lat=22.636997, lng=120.3550695}
+2024-03-11 13:26:15 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 13:26:15 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T13:26:15.731, lat=22.636997, lng=120.3550695}
+2024-03-11 13:31:36 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 13:31:36 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T13:31:36.727, lat=22.636997, lng=120.3550695}
+2024-03-11 13:35:50 DEBUG c.s.s.PunchService - PunchCardDto{empId=001, punchTime=null, lat=22.636997, lng=120.3550695}
+2024-03-11 13:35:50 DEBUG c.s.c.PunchController - ret: PunchCardDto{empId=001, punchTime=2024-03-11T13:35:50.106, lat=22.636997, lng=120.3550695}
+2024-03-11 15:42:30 WARN  c.z.h.p.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m53s755ms926?s200ns).
+2024-03-11 18:11:30 WARN  c.z.h.p.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16m57s827ms240?s700ns).
+2024-03-11 22:17:04 TRACE c.s.c.TestController - mia - test ...
+2024-03-11 22:17:04 INFO  c.s.c.TestController - xxxx
+2024-03-11 22:17:05 TRACE c.s.c.TestController - mia - test ...
+2024-03-11 22:17:05 INFO  c.s.c.TestController - xxxx
